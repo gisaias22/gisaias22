@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gisaias22
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning ML Core
+- 🌱 I’m currently learning SwiftUI 3
 
 <!---
 gisaias22/gisaias22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
